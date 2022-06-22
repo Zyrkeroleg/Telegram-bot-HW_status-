@@ -1,4 +1,4 @@
-## Teltgram Bot
+## Telegram Bot
 
 #### Что делает?
 
